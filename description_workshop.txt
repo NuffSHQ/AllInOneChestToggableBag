@@ -7,7 +7,7 @@ A mod that allows you to open and close the void bag for the Mobile All-In-One C
 [b] Visual Cues: [/b] Added information on if the void bag is open or close in the tooltip. As well as the item sprite change based on if its open or close.
 
 [h1] Open Source [/h1] 
-- The source code is fully viewable on GitHub or by extracting the mod.
+The source code is fully viewable on GitHub or by extracting the mod.
 
 [h1] Notes [/h1] 
 If you find any issues, you can leave them down in the comments.
