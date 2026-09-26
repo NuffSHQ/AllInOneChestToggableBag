@@ -35,4 +35,4 @@ This mod functions as an addon and requires the following to run properly:
 
 If you run into any issues, compatibility glitches, or have suggestions for improvements, please leave a comment on the official 
 
-[Steam Workshop Page]().
+[Steam Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=3808234418).
