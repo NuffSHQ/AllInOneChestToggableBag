@@ -1,0 +1,27 @@
+# Visual Studio / MSBuild generated folders
+bin/
+obj/
+packages/
+/tModLoader.targets
+
+# VS Code specific files and folders
+.vscode/
+.history/
+
+# Build results & logs
+*.csproj.user
+*.suo
+*.cache
+*.log
+msbuild.binlog
+
+# IDE specific files
+.vs/
+.idea/
+*.user
+*.pidb
+*.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db

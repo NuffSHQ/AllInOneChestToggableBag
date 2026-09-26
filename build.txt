@@ -1,0 +1,15 @@
+displayName = LuiAFK Reborn: AIO Chest and Merchant QoL
+author = NuffSHQ
+version = 1.0.0
+side = Both
+homepage = https://github.com
+
+# Hard dependency needed
+modReferences = miningcracks_take_on_luiafk
+
+# Security & compilation packaging settings
+hideCode = false
+hideResources = false
+
+# Exclude IDE build caches and repository files from packaging into the final .tmod file
+buildIgnore = .git*, *.csproj, bin/*, obj/*

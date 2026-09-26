@@ -1,0 +1,13 @@
+Items: {
+	AllInOneChestGlobalItem: {
+		Tooltip: ""
+		DisplayName: All In One Chest Global Item
+	}
+}
+
+ToolTipAction: Right Click to
+ToolTipStatus: "[c/AF4BFF:Void Bag: ]"
+ActionOpen: open void bag
+ActionClose: close void bag
+StatusEnabled: "[c/AF4BFF:Enabled]"
+StatusDisabled: "[c/6A0DAD:Disabled]"

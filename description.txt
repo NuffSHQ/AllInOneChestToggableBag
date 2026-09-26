@@ -1,0 +1,10 @@
+A mod that allows you to open and close the void bag for the Mobile All-In-One Chest and Merchant item in the LuiAFK Reborn mod.
+
+Key Features:
+- Open/Close Void Bag: Can now be right clicked to open and close the void bag while hovering over the item in the inventory.
+- Visual Cues: Added information on if the void bag is open or close in the tooltip. As well as the item sprite change based on if its open or close.
+
+Open Source:
+- The source code is fully viewable on GitHub or by extracting the mod.
+
+If you find any issues, you can leave them down within its steam mod page comments.
